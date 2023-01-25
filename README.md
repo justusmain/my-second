@@ -1,7 +1,7 @@
 # my-second
 coding process
 # day one
-**install git bush **
+**install git bush**
 1. gitbash
 2. r studio
 # day two
