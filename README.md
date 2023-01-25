@@ -12,5 +12,5 @@ coding process
 4. how to copy files 
 # day three 
 **introduction to git hub** 
-1. how to cre and save
+1. how to creat and save
 
